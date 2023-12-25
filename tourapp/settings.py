@@ -18,7 +18,7 @@ import openai
 import googlemaps
 
 GOOGLEMAPS_API_KEY = 'AIzaSyDy84YS0xRdllFn9ns28Ni3YUfdTymqzMw'
-OPENAI_API_KEY = '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'
+OPENAI_API_KEY = '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'
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
